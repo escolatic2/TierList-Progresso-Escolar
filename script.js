@@ -1,11 +1,11 @@
 // 1. DADOS INICIAIS DAS EQUIPAS
 // **IMPORTANTE: Edite esta lista com as suas equipas e URLs de imagem.**
 let teamsData = [
-    { id: 1, name: "Os Batatas", points: 5, imageUrl: "https://i.imgur.com/example1.png" },
+    { id: 1, name: "Os Batatas", points: 35, imageUrl: "images/osbatatas.jpg" },
     { id: 2, name: "?? Alpha Geeks", points: 5, imageUrl: "https://i.imgur.com/example2.png" },
     { id: 3, name: "?? Os Bug Slayers", points: 5, imageUrl: "https://i.imgur.com/example3.png" },
-    { id: 4, name: "?? Guerreiros do Bit", points: 30, imageUrl: "https://i.imgur.com/example4.png" },
-    { id: 5, name: "?? Syntax Errors", points: 10, imageUrl: "https://i.imgur.com/example5.png" }
+    { id: 4, name: "?? Guerreiros do Bit", points: 5, imageUrl: "https://i.imgur.com/example4.png" },
+    { id: 5, name: "?? Syntax Errors", points: 5, imageUrl: "https://i.imgur.com/example5.png" }
     // Adicione mais equipas aqui
 ];
 
