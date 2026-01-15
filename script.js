@@ -12,10 +12,10 @@ let teamsData = [
 // 2. REGRAS DA TIER LIST
 // Define os limites mínimos de pontos para cada Tier.
 const TIER_RULES = [
-    { tier: "S", minPoints: 25, label: "Tier S (Atingiu o Objetivo Máximo)" },
-    { tier: "A", minPoints: 15, label: "Tier A (Excelente Progresso)" },
-    { tier: "B", minPoints: 10, label: "Tier B (Bom Progresso)" },
-    { tier: "C", minPoints: 5, label: "Tier C (Avança de Forma Constante)" },
+    { tier: "S", minPoints: 45, label: "Tier S (Atingiu o Objetivo Máximo)" },
+    { tier: "A", minPoints: 35, label: "Tier A (Excelente Progresso)" },
+    { tier: "B", minPoints: 25, label: "Tier B (Bom Progresso)" },
+    { tier: "C", minPoints: 15, label: "Tier C (Avança de Forma Constante)" },
     { tier: "D", minPoints: 0, label: "Tier D (A Começar)" }
 ];
 
