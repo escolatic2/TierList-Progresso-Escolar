@@ -1,9 +1,9 @@
 // 1. DADOS INICIAIS DAS EQUIPAS
 // **IMPORTANTE: Edite esta lista com as suas equipas e URLs de imagem.**
 let teamsData = [
-    { id: 1, name: "Os Batatas", points: 55, imageUrl: "images/osbatatas.jpg" },
-    { id: 2, name: "The Best", points: 55, imageUrl: "images/thebest.png" },
-    { id: 3, name: "Os Laggers", points: 45, imageUrl: "images/oslaggers.jpg" },
+    { id: 1, name: "Os Batatas", points: 65, imageUrl: "images/osbatatas.jpg" },
+    { id: 2, name: "The Best", points: 65, imageUrl: "images/thebest.png" },
+    { id: 3, name: "Os Laggers", points: 55, imageUrl: "images/oslaggers.jpg" },
     // { id: 4, name: "?? Guerreiros do Bit", points: 5, imageUrl: "https://i.imgur.com/example4.png" },
     // { id: 5, name: "?? Syntax Errors", points: 5, imageUrl: "https://i.imgur.com/example5.png" }
     // Adicione mais equipas aqui
@@ -12,11 +12,11 @@ let teamsData = [
 // 2. REGRAS DA TIER LIST
 // Define os limites mínimos de pontos para cada Tier.
 const TIER_RULES = [
-    { tier: "S", minPoints: 55, label: "Tier S (Atingiu o Objetivo Máximo)" },
-    { tier: "A", minPoints: 45, label: "Tier A (Excelente Progresso)" },
-    { tier: "B", minPoints: 35, label: "Tier B (Bom Progresso)" },
-    { tier: "C", minPoints: 25, label: "Tier C (Avança de Forma Constante)" },
-    { tier: "D", minPoints: 15, label: "Tier D (A Começar)" }
+    { tier: "S", minPoints: 65, label: "Tier S (Atingiu o Objetivo Máximo)" },
+    { tier: "A", minPoints: 55, label: "Tier A (Excelente Progresso)" },
+    { tier: "B", minPoints: 45, label: "Tier B (Bom Progresso)" },
+    { tier: "C", minPoints: 35, label: "Tier C (Avança de Forma Constante)" },
+    { tier: "D", minPoints: 25, label: "Tier D (A Começar)" }
 ];
 
 // Função para obter a Tier de uma equipa com base na sua pontuação
