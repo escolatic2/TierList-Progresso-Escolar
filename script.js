@@ -2,10 +2,14 @@
 // **IMPORTANTE: Edite esta lista com as suas equipas e URLs de imagem.**
 let teamsData = [
     { id: 1, name: "gunas miau", points: 30, imageUrl: "images/mBot2.PNG" },
-    { id: 2, name: "Eq2..", points: 20, imageUrl: "images/mBot2.PNG" },
+    { id: 2, name: "??Eq2..", points: 20, imageUrl: "images/mBot2.PNG" },
     { id: 3, name: "BotsXD", points: 20, imageUrl: "images/mBot2.PNG" },
     { id: 4, name: "Pastel de Nata", points: 20, imageUrl: "images/mBot2.PNG" },
-    // { id: 5, name: "?? Syntax Errors", points: 5, imageUrl: "https://i.imgur.com/example5.png" }
+    { id: 5, name: "?? Eq5..", points: 20, imageUrl: "images/mBot2.PNG" }
+    { id: 6, name: "?? Eq6..", points: 20, imageUrl: "images/mBot2.PNG" },
+    { id: 7, name: "mogadores gulosos", points: 30, imageUrl: "images/mBot2.PNG" },
+    { id: 8, name: "?? Eq8..", points: 20, imageUrl: "images/mBot2.PNG" },
+    { id: 9, name: "?? Eq9..", points: 20, imageUrl: "images/mBot2.PNG" }
     // Adicione mais equipas aqui
 ];
 
