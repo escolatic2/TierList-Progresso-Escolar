@@ -2,7 +2,7 @@
 // **IMPORTANTE: Edite esta lista com as suas equipas e URLs de imagem.**
 let teamsData = [
     { id: 1, name: "gunas miau", points: 30, imageUrl: "images/mBot2.PNG" },
-    { id: 2, name: "??Eq2..", points: 20, imageUrl: "images/mBot2.PNG" },
+    { id: 2, name: "?? Eq2..", points: 20, imageUrl: "images/mBot2.PNG" },
     { id: 3, name: "BotsXD", points: 20, imageUrl: "images/mBot2.PNG" },
     { id: 4, name: "Pastel de Nata", points: 20, imageUrl: "images/mBot2.PNG" },
     { id: 5, name: "?? Eq5..", points: 20, imageUrl: "images/mBot2.PNG" }
