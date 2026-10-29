@@ -1,10 +1,10 @@
 // 1. DADOS INICIAIS DAS EQUIPAS
 // **IMPORTANTE: Edite esta lista com as suas equipas e URLs de imagem.**
 let teamsData = [
-    { id: 1, name: "gunas miau", points: 30, imageUrl: "images/mBot2.PNG" },
-    { id: 2, name: "?? Eq2", points: 20, imageUrl: "images/mBot2.PNG" },
-    { id: 3, name: "BotsXD", points: 20, imageUrl: "images/mBot2.PNG" },
-    { id: 4, name: "Pastel de Nata", points: 20, imageUrl: "images/mBot2.PNG" },
+    { id: 1, name: "gunas miau", points: 80, imageUrl: "images/mBot2.PNG" },
+    { id: 2, name: "?? Eq2", points: 70, imageUrl: "images/mBot2.PNG" },
+    { id: 3, name: "BotsXD", points: 70, imageUrl: "images/mBot2.PNG" },
+    { id: 4, name: "Pastel de Nata", points: 40, imageUrl: "images/mBot2.PNG" },
     { id: 5, name: "?? Eq5", points: 20, imageUrl: "images/mBot2.PNG" },
     { id: 6, name: "?? Eq6", points: 20, imageUrl: "images/mBot2.PNG" },
     { id: 7, name: "mogadores gulosos", points: 30, imageUrl: "images/mBot2.PNG" },
@@ -16,11 +16,11 @@ let teamsData = [
 // 2. REGRAS DA TIER LIST
 // Define os limites mínimos de pontos para cada Tier.
 const TIER_RULES = [
-    { tier: "S", minPoints: 50, label: "Tier S (Atingiu o Objetivo Máximo)" },
-    { tier: "A", minPoints: 40, label: "Tier A (Excelente Progresso)" },
-    { tier: "B", minPoints: 30, label: "Tier B (Bom Progresso)" },
-    { tier: "C", minPoints: 20, label: "Tier C (Avança de Forma Constante)" },
-    { tier: "D", minPoints: 10, label: "Tier D (A Começar)" }
+    { tier: "S", minPoints: 100, label: "Tier S (Atingiu o Objetivo Máximo)" },
+    { tier: "A", minPoints: 80, label: "Tier A (Excelente Progresso)" },
+    { tier: "B", minPoints: 60, label: "Tier B (Bom Progresso)" },
+    { tier: "C", minPoints: 40, label: "Tier C (Avança de Forma Constante)" },
+    { tier: "D", minPoints: 20, label: "Tier D (A Começar)" }
 ];
 
 // Função para obter a Tier de uma equipa com base na sua pontuação
