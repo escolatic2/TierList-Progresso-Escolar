@@ -9,7 +9,8 @@ let teamsData = [
     { id: 6, name: "?? Eq6", points: 20, imageUrl: "images/mBot2.PNG" },
     { id: 7, name: "mogadores gulosos", points: 30, imageUrl: "images/mBot2.PNG" },
     { id: 8, name: "?? Eq8", points: 20, imageUrl: "images/mBot2.PNG" },
-    { id: 9, name: "?? Eq9", points: 20, imageUrl: "images/mBot2.PNG" }
+    { id: 9, name: "?? Eq9", points: 20, imageUrl: "images/mBot2.PNG" },
+    { id: 10, name: "The Best", points: 40, imageUrl: "images/thebest.png" },
     // Adicione mais equipas aqui
 ];
 
