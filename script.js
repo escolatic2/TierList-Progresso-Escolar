@@ -5,11 +5,11 @@ let teamsData = [
     { id: 2, name: "?? Eq2", points: 70, imageUrl: "images/mBot2.PNG" },
     { id: 3, name: "BotsXD", points: 70, imageUrl: "images/mBot2.PNG" },
     { id: 4, name: "Pastel de Nata", points: 40, imageUrl: "images/pastel_nata.jpeg" },
-    { id: 5, name: "?? Eq5", points: 20, imageUrl: "images/mBot2.PNG" },
-    { id: 6, name: "?? Eq6", points: 20, imageUrl: "images/mBot2.PNG" },
-    { id: 7, name: "mogadores gulosos", points: 30, imageUrl: "images/mogadores.jpeg" },
-    { id: 8, name: "?? Eq8", points: 20, imageUrl: "images/mBot2.PNG" },
-    { id: 9, name: "?? Eq9", points: 20, imageUrl: "images/mBot2.PNG" },
+    { id: 5, name: "As brasileiras da quebrada", points: 50, imageUrl: "images/mBot2.PNG" },
+    { id: 6, name: "Os Informáticos", points: 70, imageUrl: "images/mBot2.PNG" },
+    { id: 7, name: "mogadores gulosos", points: 60, imageUrl: "images/mogadores.jpeg" },
+    { id: 8, name: "As mãos mais rápidas da Europa", points: 70, imageUrl: "images/mBot2.PNG" },
+    { id: 9, name: "Os Mirages", points: 40, imageUrl: "images/osmirages.jpg" },
     { id: 10, name: "The Best", points: 40, imageUrl: "images/thebest.png" },
     // Adicione mais equipas aqui
 ];
